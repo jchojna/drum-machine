@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/drum-machine/static/css/main.4983272f.chunk.css"
   },
   {
-    "revision": "3bb2273d829b33c5585eb04692fce136",
+    "revision": "dfe80a44d50e1750aae744171a5824e5",
     "url": "/drum-machine/index.html"
   }
 ];
