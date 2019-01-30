@@ -330,7 +330,7 @@ class App extends Component {
           </div>
         </div>
         <div>
-          <span id="side-text">{this.state.displaySide.toLowerCase()}</span>
+          <span id="side-text">{this.state.displaySide}</span>
         </div>
       </div>
     );
