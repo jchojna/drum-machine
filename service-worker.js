@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jchojna/drum-machine/precache-manifest.53daf6417a8fa5b7a3ec9688c53130a8.js"
+  "/drum-machine/precache-manifest.0b3b2ddffda3e0dfc0a05d861b692cec.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jchojna/drum-machine/index.html", {
+workbox.routing.registerNavigationRoute("/drum-machine/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
