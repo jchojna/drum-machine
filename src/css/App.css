@@ -160,10 +160,17 @@ body,
             flex-direction: column;
   }
   #side-text {
-    margin-left: 0;
-    left: 50%;
-    -webkit-transform: translate(-50%, 0);
-            transform: translate(-50%, 0);
+    display: none;
+  }
+  #drum-machine {
+    max-width: 620px;
+    max-height: 650px;
+  }
+  .display-block {
+    width: 100%;
+  }
+  #display {
+    margin-top: 30px;
   }
 }
 /*# sourceMappingURL=App.css.map */
