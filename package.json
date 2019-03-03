@@ -5,6 +5,7 @@
   "homepage": "https://jchojna.github.io/drum-machine",
   "dependencies": {
     "bootstrap": "^4.2.1",
+    "classnames": "^2.2.6",
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
     "node-sass": "^4.11.0",
